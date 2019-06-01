@@ -20,14 +20,14 @@ h2.about {
     font-size: 2em;
 }
 .bg-primary {
-    background-color: #0033A0!important;
+    background-color: #F00!important;
 }
 .bg-black {
     background: #2C2A29;
 }
 .edu {
     font-family: 'Neuton', serif;
-    color: #0033A0;
+    color: #F00;
     text-align: center;
 }
 ul.edu {
