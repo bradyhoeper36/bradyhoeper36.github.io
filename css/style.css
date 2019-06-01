@@ -25,6 +25,9 @@ h2.about {
 .bg-black {
     background: #2C2A29;
 }
+.cointainer{
+    box-sizing: 'content-box';
+}
 .edu {
     font-family: 'Neuton', serif;
     color: #F00;
