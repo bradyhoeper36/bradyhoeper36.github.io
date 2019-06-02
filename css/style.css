@@ -25,12 +25,20 @@ h2.about {
 .bg-black {
     background: #2C2A29;
 }
-.cointainer{
-    box-sizing: 'content-box';
+
+.bg-light-red {
+    background: #FFDEDE;
 }
+
+.container {
+    margin-left: 10%;
+    margin-right: 10%;
+    max-width: none;
+}
+
 .edu {
     font-family: 'Neuton', serif;
-    color: #F00;
+    color: #2C2A29;
     text-align: center;
 }
 ul.edu {
