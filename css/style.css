@@ -26,6 +26,17 @@ h2.about {
     background: #2C2A29;
 }
 
+.text-color-white {
+    color: #ffffff;
+}
+
+.ul { 
+    color: white;
+}
+.text-color-black {
+    color: black;
+}
+
 .bg-light-red {
     background: #FFDEDE;
 }
